@@ -3,7 +3,7 @@
 - [![](https://img.shields.io/github/stars/techartorg/bqt?style=social) BQT](https://github.com/techartorg/bqt)
 - [![](https://img.shields.io/github/stars/hannesdelbeke/plugget?style=social) Plugget](https://github.com/hannesdelbeke/plugget)
 - [![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?style=social) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon)
-
+- [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?style=social) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps
 ### 👯 I’m looking to collaborate on ...
 
 - Plugget, a plugin package manager for every app with Python.
