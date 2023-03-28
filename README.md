@@ -1,7 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
 - [![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt)
-
 - [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps
 ### 👯 I’m looking to collaborate on ...
 
