@@ -30,6 +30,15 @@ packaged several small tools
 TODO package:
 - [ ] package [unreal script editor](https://github.com/leixingyu/unrealScriptEditor)
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
+
+OTHER
+
+Released solo-projects on Steam: 
+
+<img src="https://user-images.githubusercontent.com/3758308/228285884-4d2e6bad-ae3b-4d85-80ca-54a6eacc07cb.gif" width="600"></img>
+- [Temple of Xiala](https://store.steampowered.com/app/774411/Temple_of_Xiala/)
+- [Cubelink](https://store.steampowered.com/app/681620/Cube_Link/)
+
 <!--
 **hannesdelbeke/hannesdelbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
