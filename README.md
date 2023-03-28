@@ -23,7 +23,8 @@ Other
 
 packaged several small tools
 - [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener
-- [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): krita plugin for pyqtconsole
+- [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin
+- [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on
 - [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)
 
 <!--
