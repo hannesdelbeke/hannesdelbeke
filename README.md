@@ -27,6 +27,9 @@ packaged several small tools
 - [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on
 - [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)
 
+TODO package:
+- [ ] package [unreal script editor](https://github.com/leixingyu/unrealScriptEditor)
+- [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
 <!--
 **hannesdelbeke/hannesdelbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
