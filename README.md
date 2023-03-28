@@ -1,12 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
 - [![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt)
-- [![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget)
-- [![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon)
+
 - [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps
 ### 👯 I’m looking to collaborate on ...
 
 - Plugget, a plugin package manager for every app with Python.
+- [![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget) a package manager for plugins
+- [![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon) Blender add-on for plugget with a simple UI
 
 ### Past projects:
 
