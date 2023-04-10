@@ -9,7 +9,7 @@
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget) a package manager for plugins
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon) Blender add-on for plugget with a simple UI
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/hannesdelbeke/plugget-pkgs) repo hosting all manifests for the plugget packages
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke//unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) /unreal_pip](https://github.com/hannesdelbeke//unreal_pip) module to pip install in unreal
+<br>[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke//unreal_pip) module to pip install in unreal
 
 ### Past projects:
 
