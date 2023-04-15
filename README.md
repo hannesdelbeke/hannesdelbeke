@@ -4,8 +4,7 @@
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps
 
 ### 👯 I’m looking to collaborate on ...
-
-<br>Plugget, a plugin package manager for every app with Python.
+Plugget, a plugin package manager for every app with Python.
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget) a package manager for plugins
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon) Blender add-on for plugget with a simple UI
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/hannesdelbeke/plugget-pkgs) repo hosting all manifests for the plugget packages
