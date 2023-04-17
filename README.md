@@ -7,6 +7,7 @@
 Plugget, a plugin package manager for every app with Python.
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget) a package manager for plugins
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon) Blender add-on for plugget with a simple UI
+<br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/hannesdelbeke/plugget-unreal) Unreal plugin for plugget
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/hannesdelbeke/plugget-pkgs) repo hosting all manifests for the plugget packages
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke//unreal_pip) module to pip install in unreal
 
@@ -28,6 +29,9 @@ packaged several small tools
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)
+<br>[![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin
+
+
 
 TODO package:
 - [ ] package [unreal script editor](https://github.com/leixingyu/unrealScriptEditor)
