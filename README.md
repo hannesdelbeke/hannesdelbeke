@@ -1,5 +1,4 @@
 ### Hi there 👋 I create game pipeline tools in Python 🐍
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
 
 🔭 I’m currently working on ...
 <br>[![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)
