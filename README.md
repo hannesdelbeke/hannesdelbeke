@@ -32,9 +32,7 @@ packaged several small tools
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin
 
 
-
 TODO package:
-- [ ] package [unreal script editor](https://github.com/leixingyu/unrealScriptEditor)
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
 
 OTHER
