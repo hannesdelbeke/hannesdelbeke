@@ -6,11 +6,12 @@
 
 ### 👯 I’m looking to collaborate on ...
 Plugget, a plugin package manager for every app with Python.
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/hannesdelbeke/plugget) a package manager for plugins
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/hannesdelbeke/plugget-blender-addon) Blender add-on for plugget with a simple UI
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/hannesdelbeke/plugget-unreal) Unreal plugin for plugget
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/hannesdelbeke/plugget-pkgs) repo hosting all manifests for the plugget packages
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke//unreal_pip) module to pip install in unreal
+<br>[![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/plugget/plugget) a package manager for plugins
+<br>[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI
+<br>[![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget
+<br>[![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages
+<br>[![](https://img.shields.io/github/stars/plugget/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/plugget/unreal_pip) module to pip install in unreal
+<br>[![](https://img.shields.io/github/stars/plugget/plugget_qt?color=grey&label=%E2%AD%90&style=flat-square) plugget qt](https://github.com/plugget/plugget_qt) qt plugget manager widget
 
 ### Past projects:
 
