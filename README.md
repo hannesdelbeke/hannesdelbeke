@@ -36,6 +36,10 @@ packaged several small tools
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender
 
 ### Unreal  
+https://github.com/hannesdelbeke/unreal_qt
+
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
+
 [![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template
