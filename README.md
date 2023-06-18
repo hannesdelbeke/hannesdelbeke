@@ -41,7 +41,8 @@ packaged several small tools
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
-- [ ] TODO resource browser
+[![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
+
 
 TODO package:
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
