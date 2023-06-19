@@ -24,6 +24,7 @@ Ported various Pyblish plugins:
 [pyblish-blender-lint](https://github.com/hannesdelbeke/pyblish-blender-lint) 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
 [modelChecker-pyblish-support](https://github.com/hannesdelbeke/modelChecker-pyblish-support) (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
+[maya scene check](https://github.com/hannesdelbeke/maya_scene_check) 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
 
 Other
 <br>[![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python
