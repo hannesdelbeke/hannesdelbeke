@@ -1,14 +1,14 @@
 ### Hi there 👋 I create game pipeline tools in Python 🐍
 
-🔭 I’m currently working on ...
-<br>[![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps
+🔭 I’m currently working on ...  
+[![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 
 ### 👯 I’m looking to collaborate on ...
-Plugget, a plugin package manager for every app with Python.
-<br>[![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/plugget/plugget) a package manager for plugins
-<br>[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI
-<br>[![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
+Plugget, a plugin package manager for every app with Python.  
+[![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) Plugget](https://github.com/plugget/plugget) a package manager for plugins  
+[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
+[![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
 [![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 
@@ -19,23 +19,22 @@ various PRs to the main Pyblish repos
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugin-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugin-manager](https://github.com/hannesdelbeke/pyblish-plugin-manager): create a config for your Pyblish pipeline  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-simple?color=grey&label=%E2%AD%90&style=flat-square) pyblish-simple](https://github.com/hannesdelbeke/pyblish-simple): create a basic pyblish gui  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager  
-Ported various Pyblish plugins:  
-[maya-quality-assurance-pyblish-plugins](https://github.com/hannesdelbeke/maya-quality-assurance-pyblish-plugins) 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  
-[pyblish-blender-lint](https://github.com/hannesdelbeke/pyblish-blender-lint) 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
-[modelChecker-pyblish-support](https://github.com/hannesdelbeke/modelChecker-pyblish-support) (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-quality-assurance-pyblish-plugins?color=grey&label=%E2%AD%90&style=flat-square) maya-quality-assurance-pyblish-plugins](https://github.com/hannesdelbeke/maya-quality-assurance-pyblish-plugins): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-blender-lint?color=grey&label=%E2%AD%90&style=flat-square) pyblish-blender-lint](https://github.com/hannesdelbeke/pyblish-blender-lint): 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/modelChecker-pyblish-support?color=grey&label=%E2%AD%90&style=flat-square) modelChecker-pyblish-support](https://github.com/hannesdelbeke/modelChecker-pyblish-support): (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/hannesdelbeke/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
-[maya scene check](https://github.com/hannesdelbeke/maya_scene_check) 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
 
-Other
-<br>[![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): make basic convex UCX colliders with 1 click in Blender
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
+Other  
+[![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
+[![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): make basic convex UCX colliders with 1 click in Blender  
+[![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
 
 
-packaged several small tools
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener
-<br>[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
+packaged several small tools  
+[![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
