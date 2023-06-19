@@ -30,9 +30,6 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 [![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): make basic convex UCX colliders with 1 click in Blender  
 [![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
-
-
-packaged several small tools  
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on  
