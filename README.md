@@ -20,6 +20,10 @@ Pyblish: mostly used as a validation pipeline for 3d assets
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-simple?color=grey&label=%E2%AD%90&style=flat-square) pyblish-simple](https://github.com/hannesdelbeke/pyblish-simple): create a basic pyblish gui
 <br>[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager
 <br>Ported various Pyblish plugins
+- [maya-quality-assurance-pyblish-plugins](https://github.com/hannesdelbeke/maya-quality-assurance-pyblish-plugins) 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)
+- [pyblish-blender-lint](https://github.com/hannesdelbeke/pyblish-blender-lint) 7 pyblish plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)
+- [modelChecker-pyblish-support](https://github.com/hannesdelbeke/modelChecker-pyblish-support) (now behind source repo) 25 maya validations [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)
+- medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)
 
 Other
 <br>[![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python
