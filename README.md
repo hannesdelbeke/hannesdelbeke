@@ -1,10 +1,9 @@
-### Hi there 👋 I create game pipeline tools in Python 🐍
+### Hi there 👋 I create game pipeline tools in Python 🐍, Always up for collaborations 👯 
 
 🔭 I’m currently working on ...  
 [![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 
-### 👯 I’m looking to collaborate on ...
 
 #### Plugget
 a plugin package manager for every app with Python.  
