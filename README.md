@@ -27,7 +27,7 @@ Add-ons:
 
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin 
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
