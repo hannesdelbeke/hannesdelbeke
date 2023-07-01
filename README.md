@@ -4,7 +4,7 @@
 
 
 
-### Plugget
+###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
 a plugin package manager for every app with a Python interpreter.  
 ![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget?color=0)](https://pypi.org/project/plugget/) [Plugget](https://github.com/plugget/plugget) a package manager for plugins  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
@@ -12,7 +12,7 @@ a plugin package manager for every app with a Python interpreter.
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
 ![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 
-### Blender
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender 
 ![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
 Add-ons:  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
@@ -23,7 +23,7 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
 
-### Unreal  
+###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
@@ -32,7 +32,7 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
 [![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) unreal-stylesheet  
 
-### Pyblish
+### <img src="https://avatars.githubusercontent.com/u/8535536?s=48&v=4" width="32" style="max-width: 100%;">  Pyblish
 A validation pipeline for 3d assets  
 various PRs to the main Pyblish repos  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugin-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugin-manager](https://github.com/hannesdelbeke/pyblish-plugin-manager): create a config for your Pyblish pipeline  
@@ -44,7 +44,7 @@ various PRs to the main Pyblish repos
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/hannesdelbeke/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
 
-### Other  
+### ⚙️ Other  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 [![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
