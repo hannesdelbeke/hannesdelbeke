@@ -47,12 +47,12 @@ various PRs to the main Pyblish repos
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
 
 ### 🗒️ Notes  
-https://github.com/hannesdelbeke/wiki_template A template to turn your markdown notes automatically into a github page.  
-https://github.com/hannesdelbeke/brain PKM collection of markdown notes on various topics  
-https://github.com/hannesdelbeke/wiki Hosts the PKM notes on a github page  
-https://github.com/hannesdelbeke/mkdocs-collapsable-headers A mkdocs plugin to make all headers collapsible.  
-https://github.com/hannesdelbeke/note-link-janitor (Fork fix)  A plugin to auto add backlinks to any markdown files, can be used in github actions  
-https://github.com/hannesdelbeke/copycat-action-2 (Fork fix)  Fork of a github action to copy files, with added support for submodules  
+[![](https://img.shields.io/github/stars/hannesdelbeke/wiki_template?color=grey&label=%E2%AD%90&style=flat-square) wiki_template](https://github.com/hannesdelbeke/wiki_template) A template to turn your markdown notes automatically into a github page.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/brain?color=grey&label=%E2%AD%90&style=flat-square) brain](https://github.com/hannesdelbeke/brain) PKM collection of markdown notes on various topics  
+[![](https://img.shields.io/github/stars/hannesdelbeke/wiki?color=grey&label=%E2%AD%90&style=flat-square) wiki](https://github.com/hannesdelbeke/wiki) Hosts the PKM notes on a github page  
+[![](https://img.shields.io/github/stars/hannesdelbeke/mkdocs-collapsable-headers?color=grey&label=%E2%AD%90&style=flat-square) mkdocs-collapsable-headers](https://github.com/hannesdelbeke/mkdocs-collapsable-headers) A mkdocs plugin to make all headers collapsible.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/note-link-janitor?color=grey&label=%E2%AD%90&style=flat-square) note-link-janitor](https://github.com/hannesdelbeke/note-link-janitor) (Fork fix)  A plugin to auto add backlinks to any markdown files, can be used in github actions  
+[![](https://img.shields.io/github/stars/hannesdelbeke/copycat-action-2?color=grey&label=%E2%AD%90&style=flat-square) copycat-action-2](https://github.com/hannesdelbeke/copycat-action-2) (Fork fix)  Fork of a github action to copy files, with added support for submodules  
 
 ### ⚙️ Other  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
@@ -62,7 +62,7 @@ https://github.com/hannesdelbeke/copycat-action-2 (Fork fix)  Fork of a github a
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
-https://github.com/hannesdelbeke/unity-27-slice-shader (Fork & document) rehost of an old Unity plugin.
+[![](https://img.shields.io/github/stars/hannesdelbeke/unity-27-slice-shader?color=grey&label=%E2%AD%90&style=flat-square) unity-27-slice-shader](https://github.com/hannesdelbeke/unity-27-slice-shader) (Fork & document) rehost of an old Unity plugin.
 
 TODO package:
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
