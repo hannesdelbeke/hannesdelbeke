@@ -71,7 +71,7 @@ TODO package:
 
 ### Solo-projects
 
-| <img src="https://user-images.githubusercontent.com/3758308/228285884-4d2e6bad-ae3b-4d85-80ca-54a6eacc07cb.gif" height="300"></img> | <img src="https://github.com/hannesdelbeke/hannesdelbeke/assets/3758308/c901fc72-5cbd-49f7-b4b7-4f92e1be12d6" height="300"></img> |
+| <img src="https://user-images.githubusercontent.com/3758308/228285884-4d2e6bad-ae3b-4d85-80ca-54a6eacc07cb.gif" height="200"></img> | <img src="https://github.com/hannesdelbeke/hannesdelbeke/assets/3758308/c901fc72-5cbd-49f7-b4b7-4f92e1be12d6" height="200"></img> |
 | -- | -- |
 | 9 ⭐Temple of Xiala: [Steam](https://store.steampowered.com/app/774411/Temple_of_Xiala/), [GitHub repo](https://github.com/hannesdelbeke/temple-of-xiala)  | 20⭐Cubelink [Steam](https://store.steampowered.com/app/681620/Cube_Link/), [Google Play](https://play.google.com/store/apps/details?id=com.HannesD.CubeLink&hl=en_NZ) |
 
