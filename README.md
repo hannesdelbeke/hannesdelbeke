@@ -1,6 +1,6 @@
-### Hi there 👋 I create game pipeline tools in Python 🐍, Always up for collaborations 👯 
-
-🔭 I’m currently working on ...  
+### Hi 👋 I develop game pipeline tools in Python 🐍
+Always up for collaborations 👯  
+🔭 Here's a summary of my projects :
 
 
 
