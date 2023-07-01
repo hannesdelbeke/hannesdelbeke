@@ -12,6 +12,26 @@ a plugin package manager for every app with a Python interpreter.
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
 ![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 
+### Blender
+![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
+Add-ons:  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
+[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
+[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
+[![](https://img.shields.io/github/stars/hannesdelbeke/AddonPreferences-Minimal-UI?color=grey&label=%E2%AD%90&style=flat-square) AddonPreferences-Minimal-UI](https://github.com/hannesdelbeke/AddonPreferences-Minimal-UI) (Fork fix) a Blender add-on for minimalistic addon-preferences UI  
+[![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
+
+### Unreal  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
+[![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
+[![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
+[![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) unreal-stylesheet  
+
 ### Pyblish
 A validation pipeline for 3d assets  
 various PRs to the main Pyblish repos  
@@ -32,26 +52,6 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
-
-### Blender
-![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
-Add-ons:  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
-[![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
-[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
-[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
-[![](https://img.shields.io/github/stars/hannesdelbeke/AddonPreferences-Minimal-UI?color=grey&label=%E2%AD%90&style=flat-square) AddonPreferences-Minimal-UI](https://github.com/hannesdelbeke/AddonPreferences-Minimal-UI) (Fork fix) a Blender add-on for minimalistic addon-preferences UI  
-[![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
-
-### Unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unrealScriptEditor-plugin?color=grey&label=%E2%AD%90&style=flat-square) unrealScriptEditor-plugin](https://github.com/hannesdelbeke/unrealScriptEditor-plugin): Unreal Python script-editor plugin  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
-[![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
-[![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
-[![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) unreal-stylesheet  
 
 
 TODO package:
