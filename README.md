@@ -22,6 +22,8 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/AddonPreferences-Minimal-UI?color=grey&label=%E2%AD%90&style=flat-square) AddonPreferences-Minimal-UI](https://github.com/hannesdelbeke/AddonPreferences-Minimal-UI) (Fork fix) a Blender add-on for minimalistic addon-preferences UI  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
+https://github.com/hannesdelbeke/QtPythonConsole-Blender-add-on (packaged)  
+https://github.com/hannesdelbeke/transfer_vertex_order (packaged)  
 
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
@@ -44,6 +46,14 @@ various PRs to the main Pyblish repos
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/hannesdelbeke/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
 
+### 🗒️ Notes  
+https://github.com/hannesdelbeke/wiki_template A template to turn your markdown notes automatically into a github page.  
+https://github.com/hannesdelbeke/brain PKM collection of markdown notes on various topics  
+https://github.com/hannesdelbeke/wiki Hosts the PKM notes on a github page  
+https://github.com/hannesdelbeke/mkdocs-collapsable-headers A mkdocs plugin to make all headers collapsible.  
+https://github.com/hannesdelbeke/note-link-janitor (Fork fix)  A plugin to auto add backlinks to any markdown files, can be used in github actions  
+https://github.com/hannesdelbeke/copycat-action-2 (Fork fix)  Fork of a github action to copy files, with added support for submodules  
+
 ### ⚙️ Other  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 [![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
@@ -52,7 +62,7 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
-
+https://github.com/hannesdelbeke/unity-27-slice-shader (Fork & document) rehost of an old Unity plugin.
 
 TODO package:
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
