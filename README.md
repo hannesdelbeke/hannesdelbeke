@@ -57,17 +57,19 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 TODO package:
 - [ ] package [qtlog](https://github.com/MaxRocamora/QtLog) 
 
-### Released solo-projects on Steam: 
+## 🕹️ Games
+
+### Solo-projects
 
 <img src="https://user-images.githubusercontent.com/3758308/228285884-4d2e6bad-ae3b-4d85-80ca-54a6eacc07cb.gif" width="600"></img>
-- 7 ⭐Temple of Xiala: [Steam](https://store.steampowered.com/app/774411/Temple_of_Xiala/), GitHub [repo](https://github.com/hannesdelbeke/temple-of-xiala)
-- 20⭐[Cubelink](https://store.steampowered.com/app/681620/Cube_Link/)
+- 7 ⭐Temple of Xiala: [Steam](https://store.steampowered.com/app/774411/Temple_of_Xiala/), [GitHub repo](https://github.com/hannesdelbeke/temple-of-xiala)
+- 20⭐Cubelink [Steam](https://store.steampowered.com/app/681620/Cube_Link/), [Google Play](https://play.google.com/store/apps/details?id=com.HannesD.CubeLink&hl=en_NZ)
 
 ### AAA games
-- robocraft
-- sea of thieves
-- fortnight
-- fall guys
+- Robocraft
+- Sea of Thieves
+- Fortnight
+- Fall Guys
 
 <!--
 **hannesdelbeke/hannesdelbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
