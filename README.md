@@ -76,6 +76,7 @@ Plugins:
 ---
 ### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-3dsmax.png" width="32" style="max-width: 100%;">  Autodesk 3ds Max
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-3ds-max-plugin?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-3ds-max-plugin](https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin): enable dark mode in the 3ds max listener  
+
 maxscripts:  
 [advanced bend modifier](https://www.scriptspot.com/3ds-max/scripts/advanced-bend-modifier)  
 [reference manager](https://www.scriptspot.com/3ds-max/scripts/reference-manager)  
