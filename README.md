@@ -6,7 +6,7 @@
 
 ###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
 a plugin package manager for every app with a Python interpreter.  
-![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget?color=0)](https://pypi.org/project/plugget/) [Plugget](https://github.com/plugget/plugget) a package manager for plugins  
+![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [Plugget](https://github.com/plugget/plugget) a package manager for plugins  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
