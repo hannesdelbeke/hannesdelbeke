@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on ...  
 
-![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 
 
 ### Plugget
@@ -26,6 +25,7 @@ various PRs to the main Pyblish repos
 medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
 
 ### Other  
+![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 [![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
