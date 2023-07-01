@@ -53,7 +53,7 @@ TODO package:
 ### Released solo-projects on Steam: 
 
 <img src="https://user-images.githubusercontent.com/3758308/228285884-4d2e6bad-ae3b-4d85-80ca-54a6eacc07cb.gif" width="600"></img>
-- 7 ⭐[Temple of Xiala](https://store.steampowered.com/app/774411/Temple_of_Xiala/), GitHub [repo](https://github.com/hannesdelbeke/temple-of-xiala)
+- 7 ⭐Temple of Xiala: [Steam](https://store.steampowered.com/app/774411/Temple_of_Xiala/), GitHub [repo](https://github.com/hannesdelbeke/temple-of-xiala)
 - 20⭐[Cubelink](https://store.steampowered.com/app/681620/Cube_Link/)
 
 ### AAA games
