@@ -39,8 +39,7 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
-[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): quickly create basic UCX collision meshes in Blender  
-[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): make basic convex UCX colliders with 1 click in Blender  
+[![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
 
 ### Unreal  
