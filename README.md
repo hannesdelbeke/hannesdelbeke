@@ -74,15 +74,30 @@ Plugins:
 
 
 ---
+### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-3dsmax.png" width="32" style="max-width: 100%;">  Autodesk 3ds Max
+[![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-3ds-max-plugin?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-3ds-max-plugin](https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin): enable dark mode in the 3ds max listener  
+maxscripts:  
+[advanced bend modifier](https://www.scriptspot.com/3ds-max/scripts/advanced-bend-modifier)  
+[reference manager](https://www.scriptspot.com/3ds-max/scripts/reference-manager)  
+[explode baker](https://www.scriptspot.com/3ds-max/scripts/explode-baker)  
+
+
+---
+### <img src="https://user-images.githubusercontent.com/43868318/249610844-57f12074-08ff-4231-ac03-a0f30347ed78.png" width="32" style="max-width: 100%;">  Krita
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
+
+---
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Unity-Dark.svg" width="32" style="max-width: 100%;">  Unity
+[![](https://img.shields.io/github/stars/hannesdelbeke/unity-27-slice-shader?color=grey&label=%E2%AD%90&style=flat-square) unity-27-slice-shader](https://github.com/hannesdelbeke/unity-27-slice-shader) (Fork & document) rehost of an old Unity plugin.  
+328❤️ unity store [16th-century-cannon](https://assetstore.unity.com/packages/3d/props/weapons/16th-century-cannon-70417  ) 3d model
+
+---
 ### ⚙️ Other  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 ![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/figmapy)](https://pypi.org/project/figmapy/)  [FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
-[![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-3ds-max-plugin?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-3ds-max-plugin](https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin): enable dark mode in the 3ds max listener  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unity-27-slice-shader?color=grey&label=%E2%AD%90&style=flat-square) unity-27-slice-shader](https://github.com/hannesdelbeke/unity-27-slice-shader) (Fork & document) rehost of an old Unity plugin.  
 - [ ] TODO package [qtlog](https://github.com/MaxRocamora/QtLog)  
 
 ---
