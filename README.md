@@ -12,9 +12,9 @@ A plugin package manager for every app with a Python interpreter.
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
 ![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender 
-![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender  
 Add-ons:  
+![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
 [![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
