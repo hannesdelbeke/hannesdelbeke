@@ -22,8 +22,8 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/AddonPreferences-Minimal-UI?color=grey&label=%E2%AD%90&style=flat-square) AddonPreferences-Minimal-UI](https://github.com/hannesdelbeke/AddonPreferences-Minimal-UI) (Fork fix) a Blender add-on for minimalistic addon-preferences UI  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
-https://github.com/hannesdelbeke/QtPythonConsole-Blender-add-on (packaged)  
-https://github.com/hannesdelbeke/transfer_vertex_order (packaged)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/QtPythonConsole-Blender-add-on?color=grey&label=%E2%AD%90&style=flat-square) QtPythonConsole-Blender-add-on](https://github.com/hannesdelbeke/QtPythonConsole-Blender-add-on) (packaged)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/transfer_vertex_order?color=grey&label=%E2%AD%90&style=flat-square) transfer_vertex_order](https://github.com/hannesdelbeke/transfer_vertex_order) (packaged)  
 
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_qt?color=grey&label=%E2%AD%90&style=flat-square) unreal_qt](https://github.com/hannesdelbeke/unreal_qt): qt manager for unreal  
