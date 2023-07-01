@@ -35,6 +35,7 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 
 ### Blender
 ![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
+Add-ons:  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): pyqtconsole blender add-on  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
