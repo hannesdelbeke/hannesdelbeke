@@ -27,7 +27,7 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 
 ### Other  
 [![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
-[![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): make basic convex UCX colliders with 1 click in Blender  
 [![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-max?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-max](https://github.com/hannesdelbeke/dark-listener-max): enable dark mode in the 3ds max listener  
@@ -45,6 +45,7 @@ medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
 [![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
+[![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) unreal-stylesheet  
 
 
 TODO package:
