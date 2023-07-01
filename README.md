@@ -6,7 +6,7 @@ Always up for collaborations 👯
 
 ###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
 A plugin package manager for every app with a Python interpreter.  
-![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [Plugget](https://github.com/plugget/plugget) a package manager for plugins  
+![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
@@ -27,7 +27,7 @@ Add-ons:
 
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-qt?color=grey&label=%E2%AD%90&style=flat-square) unreal-qt](https://github.com/hannesdelbeke/unreal-qt): qt manager for unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin 
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
 [![](https://img.shields.io/github/stars/plugget/plugget-unreal?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal](https://github.com/plugget/plugget-unreal) Unreal plugin for plugget  
@@ -40,11 +40,11 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugin-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugin-manager](https://github.com/hannesdelbeke/pyblish-plugin-manager): create a config for your Pyblish pipeline  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager  
 Plugins:  
-[![](https://img.shields.io/github/stars/hannesdelbeke/maya-quality-assurance-pyblish-plugins?color=grey&label=%E2%AD%90&style=flat-square) maya-quality-assurance-pyblish-plugins](https://github.com/hannesdelbeke/maya-quality-assurance-pyblish-plugins): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-wrapper-maya-quality-assurance?color=grey&label=%E2%AD%90&style=flat-square) pyblish-wrapper-maya-quality-assurance](https://github.com/hannesdelbeke/pyblish-wrapper-maya-quality-assurance): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-blender-lint?color=grey&label=%E2%AD%90&style=flat-square) pyblish-blender-lint](https://github.com/hannesdelbeke/pyblish-blender-lint): 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-pluginwrapper-modelChecker?color=grey&label=%E2%AD%90&style=flat-square) pyblish-pluginwrapper-modelChecker](https://github.com/hannesdelbeke/pyblish-pluginwrapper-modelChecker): (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/hannesdelbeke/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
-medic 22 maya plugins [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
+[![](https://img.shields.io/github/stars/sol-ansano-kim/medic?color=grey&label=%E2%AD%90&style=flat-square) medic](https://github.com/sol-ansano-kim/medic): 22 maya plugins with the Pyblish converter [medicToPyblish](https://github.com/sol-ansano-kim/medicToPyblish), [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
 
 ### 🗒️ Notes  
 [![](https://img.shields.io/github/stars/hannesdelbeke/wiki_template?color=grey&label=%E2%AD%90&style=flat-square) wiki_template](https://github.com/hannesdelbeke/wiki_template) A template to turn your markdown notes automatically into a github page.  
