@@ -17,6 +17,7 @@ A plugin package manager for every app with a Python interpreter.
 
 ---
 ### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender  
+
 Add-ons:  
 ![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
@@ -28,6 +29,9 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
 [![](https://img.shields.io/github/stars/hannesdelbeke/QtPythonConsole-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) QtPythonConsole-blender-addon](https://github.com/hannesdelbeke/QtPythonConsole-blender-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-transfer-vertex-order-addon?color=grey&label=%E2%AD%90&style=flat-square) blender-transfer-vertex-order-addon](https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon) (packaged)  
+
+Python modules (TODO)
+- [ ] port blender pip addon and plugget pip install action to it's own module
 
 
 ---
@@ -79,7 +83,7 @@ Plugins:
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unity-27-slice-shader?color=grey&label=%E2%AD%90&style=flat-square) unity-27-slice-shader](https://github.com/hannesdelbeke/unity-27-slice-shader) (Fork & document) rehost of an old Unity plugin.  
-TODO package [qtlog](https://github.com/MaxRocamora/QtLog)  
+- [ ] TODO package [qtlog](https://github.com/MaxRocamora/QtLog)  
 
 ---
 
