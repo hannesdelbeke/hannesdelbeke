@@ -79,7 +79,7 @@ Plugins:
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-3ds-max-plugin?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-3ds-max-plugin](https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin): enable dark mode in the 3ds max listener  
 
 maxscripts:  
-[advanced bend modifier](https://www.scriptspot.com/3ds-max/scripts/advanced-bend-modifier)  
+[advanced bend modifier](https://www.scriptspot.com/3ds-max/scripts/advanced-bend-modifier), github [repo](https://github.com/hannesdelbeke/advanced-bend-modifier-maxscript)   
 [reference manager](https://www.scriptspot.com/3ds-max/scripts/reference-manager)  
 [explode baker](https://www.scriptspot.com/3ds-max/scripts/explode-baker)  
 
