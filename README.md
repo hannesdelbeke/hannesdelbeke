@@ -41,7 +41,7 @@ Python modules
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 ![](https://img.shields.io/github/stars/leixingyu/unrealStylesheet?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) [unrealStylesheet](https://github.com/leixingyu/unrealStylesheet): qt stylesheet in unreal style  
 
-https://github.com/leixingyu/unrealStylesheet
+
 Plugins  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
