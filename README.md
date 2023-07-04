@@ -50,7 +50,7 @@ Plugins
 ### <img src="https://avatars.githubusercontent.com/u/8535536?s=48&v=4" width="32" style="max-width: 100%;">  Pyblish
 ![](https://img.shields.io/github/stars/pyblish/pyblish-base?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish)](https://pypi.org/project/pyblish/) [pyblish-base](https://github.com/pyblish/pyblish-base) Pyblish is a validation pipeline (e.g. for 3d assets). (Contributed PRs for about a year)  
 ![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-simple?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-simple)](https://pypi.org/project/pyblish-simple/) [pyblish-simple](https://github.com/hannesdelbeke/pyblish-simple): create a basic pyblish gui  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugin-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugin-manager](https://github.com/hannesdelbeke/pyblish-plugin-manager): create a config for your Pyblish pipeline  
+![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-config?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-config)](https://pypi.org/project/pyblish-config/)  [pyblish-config](https://github.com/hannesdelbeke/pyblish-config): create a config for your Pyblish pipeline  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager  
 
 Plugins:  
