@@ -37,7 +37,7 @@ Python modules (TODO)
 ---
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 Python modules  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-qt?color=grey&label=%E2%AD%90&style=flat-square) unreal-qt](https://github.com/hannesdelbeke/unreal-qt): qt manager for unreal  
+![](https://img.shields.io/github/stars/hannesdelbeke/unreal-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unreal-qt)](https://pypi.org/project/unreal-qt/) [unreal-qt](https://github.com/hannesdelbeke/unreal-qt): Qt manager for Unreal  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
 ![](https://img.shields.io/github/stars/leixingyu/unrealStylesheet?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) [unrealStylesheet](https://github.com/leixingyu/unrealStylesheet): qt stylesheet in unreal style  
 
