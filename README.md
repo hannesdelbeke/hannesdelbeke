@@ -1,8 +1,5 @@
 ### Hi 👋 I develop game pipeline tools in Python 🐍
-Always up for collaborations 👯  
-🔭 Here's a summary of my projects :
-
-
+🔭 Here's a summary of all my projects :
 
 
 ---
