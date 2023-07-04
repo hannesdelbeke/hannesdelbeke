@@ -97,6 +97,8 @@ maxscripts:
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 ![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/buttonizer)](https://pypi.org/project/buttonizer/) [buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
 
+---
+
 ### 🧪 RnD 
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
 - [ ] TODO package [qtlog](https://github.com/MaxRocamora/QtLog)  
