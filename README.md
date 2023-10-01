@@ -27,6 +27,7 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/QtPythonConsole-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) QtPythonConsole-blender-addon](https://github.com/hannesdelbeke/QtPythonConsole-blender-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-transfer-vertex-order-addon?color=grey&label=%E2%AD%90&style=flat-square) blender-transfer-vertex-order-addon](https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/qt-addon-browser?color=grey&label=%E2%AD%90&style=flat-square) qt-addon-browser](https://github.com/hannesdelbeke/qt-addon-browser) A browser widget for Blender add-ons  
+[![](https://img.shields.io/github/stars/hannesdelbeke/persistent-console-history?color=grey&label=%E2%AD%90&style=flat-square) persistent-console-history](https://github.com/hannesdelbeke/persistent-console-history) An add-on to maintain console history between Blender sessions  
 
 
 Python modules (TODO)
