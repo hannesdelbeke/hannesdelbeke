@@ -29,11 +29,6 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/qt-addon-browser?color=grey&label=%E2%AD%90&style=flat-square) qt-addon-browser](https://github.com/hannesdelbeke/qt-addon-browser) A browser widget for Blender add-ons  
 [![](https://img.shields.io/github/stars/hannesdelbeke/persistent-console-history?color=grey&label=%E2%AD%90&style=flat-square) persistent-console-history](https://github.com/hannesdelbeke/persistent-console-history) An add-on to maintain console history between Blender sessions  
 
-
-Python modules (TODO)
-- [ ] port blender pip addon and plugget pip install action to it's own module
-
-
 ---
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
 
@@ -95,11 +90,14 @@ maxscripts:
 <sub>⭐328</sub> 16th-century-cannon 3d model: [unity store](https://assetstore.unity.com/packages/3d/props/weapons/16th-century-cannon-70417), [sketchfab](https://sketchfab.com/3d-models/cannon-0e72e8d5951b45faaaccc721d92e5076)
 
 ---
-### ⚙️ Other  
+### ⚙️ Other Python modules  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unimenu?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unimenu)](https://pypi.org/project/unimenu/) [unimenu](https://github.com/hannesdelbeke/unimenu) Simple unified menu creation across apps  
 ![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/figmapy)](https://pypi.org/project/figmapy/)  [FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 ![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/buttonizer)](https://pypi.org/project/buttonizer/) [buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt?color=grey&label=%E2%AD%90&style=flat-square) pip-qt](https://github.com/hannesdelbeke/pip-qt) A UI to manage pip packages   
+
+- [ ] port blender pip addon and plugget pip install action to it's own module
 
 ---
 
