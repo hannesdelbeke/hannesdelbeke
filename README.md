@@ -28,6 +28,8 @@ Add-ons:
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-transfer-vertex-order-addon?color=grey&label=%E2%AD%90&style=flat-square) blender-transfer-vertex-order-addon](https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/qt-addon-browser?color=grey&label=%E2%AD%90&style=flat-square) qt-addon-browser](https://github.com/hannesdelbeke/qt-addon-browser) A browser widget for Blender add-ons  
 [![](https://img.shields.io/github/stars/hannesdelbeke/persistent-console-history?color=grey&label=%E2%AD%90&style=flat-square) persistent-console-history](https://github.com/hannesdelbeke/persistent-console-history) An add-on to maintain console history between Blender sessions  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt-addon?color=grey&label=%E2%AD%90&style=flat-square) pip-qt-addon](https://github.com/hannesdelbeke/pip-qt-addon) An add-on to add a pip-qt launcher to the menu.  
+
 
 ---
 ###  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/UnrealEngine.svg" width="32" style="max-width: 100%;">  Unreal  
@@ -95,7 +97,8 @@ maxscripts:
 ![](https://img.shields.io/github/stars/Amatobahn/FigmaPy?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/figmapy)](https://pypi.org/project/figmapy/)  [FigmaPy](https://github.com/Amatobahn/FigmaPy): read Figma data with Python  
 ![](https://img.shields.io/github/stars/hannesdelbeke/detect-app?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/detect-app)](https://pypi.org/project/detect-app/) [detect-app](https://github.com/hannesdelbeke/detect-app): Detect which app the python interpreter is running in.  
 ![](https://img.shields.io/github/stars/hannesdelbeke/buttonizer?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/buttonizer)](https://pypi.org/project/buttonizer/) [buttonizer](https://github.com/hannesdelbeke/buttonizer): launch py commands with 1 click, from a config  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt?color=grey&label=%E2%AD%90&style=flat-square) pip-qt](https://github.com/hannesdelbeke/pip-qt) A UI to manage pip packages   
+[![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pip-qt)](https://pypi.org/project/pip-qt/) [pip-qt](https://github.com/hannesdelbeke/pip-qt) A UI to manage pip packages   
+[![](https://img.shields.io/github/stars/hannesdelbeke/py-pip?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/py-pip)](https://pypi.org/project/py-pip/) [py-pip](https://github.com/hannesdelbeke/py-pip) Manage pip packages from within the active Python interpreter, passing the sys.paths   
 
 - [ ] port blender pip addon and plugget pip install action to it's own module
 
