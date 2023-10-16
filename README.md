@@ -37,7 +37,7 @@ Add-ons:
 Python modules  
 ![](https://img.shields.io/github/stars/leixingyu/unrealStylesheet?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unreal-stylesheet)](https://pypi.org/project/unreal-stylesheet/) [unrealStylesheet](https://github.com/leixingyu/unrealStylesheet): qt stylesheet in unreal style  
 ![](https://img.shields.io/github/stars/hannesdelbeke/unreal-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/unreal-qt)](https://pypi.org/project/unreal-qt/) [unreal-qt](https://github.com/hannesdelbeke/unreal-qt): Qt manager for Unreal  
-[![](https://img.shields.io/github/stars/hannesdelbeke/unreal_pip?color=grey&label=%E2%AD%90&style=flat-square) unreal_pip](https://github.com/hannesdelbeke/unreal_pip) module to pip install in unreal  
+[![](https://img.shields.io/github/stars/hannesdelbeke/unreal-pip?color=grey&label=%E2%AD%90&style=flat-square) unreal-pip](https://github.com/hannesdelbeke/unreal-pip) module to pip install in unreal  
 
 Plugins  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin  
