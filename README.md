@@ -83,6 +83,11 @@ maxscripts:
 
 
 ---
+### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-maya.png" width="32" style="max-width: 100%;">  Autodesk Maya
+
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-template](https://github.com/hannesdelbeke/maya-plugin-template): a template for Python plugins & modules
+
+---
 ### <img src="https://user-images.githubusercontent.com/43868318/249610844-57f12074-08ff-4231-ac03-a0f30347ed78.png" width="32" style="max-width: 100%;">  Krita
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_krita?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_krita](https://github.com/hannesdelbeke/pyqtconsole_krita): pyqtconsole krita plugin  
 
