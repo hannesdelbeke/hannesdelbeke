@@ -16,22 +16,22 @@ A plugin package manager for every app with a Python interpreter.
 ---
 ### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender  
 
-#### UI
+**UI**  
 ![](https://img.shields.io/github/stars/techartorg/bqt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/bqt)](https://pypi.org/project/bqt/) [BQT](https://github.com/techartorg/bqt) A Blender add-on to support & manage Qt Widgets in Blender (PySide2)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unimenu_addon?color=grey&label=%E2%AD%90&style=flat-square) unimenu_addon](https://github.com/hannesdelbeke/unimenu_addon): add-on to make custom menus in Blender. (with unimenu)  
 
-#### Packaging & distribution
+**Packaging & distribution**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt-addon?color=grey&label=%E2%AD%90&style=flat-square) pip-qt-addon](https://github.com/hannesdelbeke/pip-qt-addon) An add-on to add a pip-qt launcher to the menu.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
 [![](https://img.shields.io/github/stars/hannesdelbeke/qt-addon-browser?color=grey&label=%E2%AD%90&style=flat-square) qt-addon-browser](https://github.com/hannesdelbeke/qt-addon-browser) A browser widget for Blender add-ons  
 
-#### Modelling
+**Modelling**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-transfer-vertex-order-addon?color=grey&label=%E2%AD%90&style=flat-square) blender-transfer-vertex-order-addon](https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
 
-#### Scripting
+**Scripting**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
 [![](https://img.shields.io/github/stars/hannesdelbeke/QtPythonConsole-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) QtPythonConsole-blender-addon](https://github.com/hannesdelbeke/QtPythonConsole-blender-addon) (packaged)  
 [![](https://img.shields.io/github/stars/hannesdelbeke/persistent-console-history?color=grey&label=%E2%AD%90&style=flat-square) persistent-console-history](https://github.com/hannesdelbeke/persistent-console-history) An add-on to maintain console history between Blender sessions  
