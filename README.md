@@ -1,6 +1,5 @@
 ### Hi 👋 I develop game pipeline tools in Python 🐍
-🔭 Here's a summary of all my projects :
-
+Below is a summary of all my projects :
 
 ---
 ###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
