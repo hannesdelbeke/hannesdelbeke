@@ -3,7 +3,9 @@ Below is a summary of all my projects :
 
 ---
 ###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
-A plugin package manager for every app with a Python interpreter.  
+Plugget is a plugin package manager that let's artists install tools with 1 click,  
+in every app with a Python interpreter. (Blender, Maya, Max, Unreal, ... )    
+
 ![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
 ![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 [![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
