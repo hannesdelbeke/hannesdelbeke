@@ -134,6 +134,7 @@ Plugins
 ![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pip-qt)](https://pypi.org/project/pip-qt/) [pip-qt](https://github.com/hannesdelbeke/pip-qt) A UI to manage pip packages   
 ![](https://img.shields.io/github/stars/hannesdelbeke/py-pip?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/py-pip)](https://pypi.org/project/py-pip/) [py-pip](https://github.com/hannesdelbeke/py-pip) Manage pip packages from within the active Python interpreter, passing the sys.paths   
 ![](https://img.shields.io/github/stars/hannesdelbeke/basic-batcher?color=grey&label=%E2%AD%90&style=flat-square) [basic-batcher](https://github.com/hannesdelbeke/basic-batcher) A basic batcher  
+App launcher on [GumRoad](https://hannesdelbeke.gumroad.com/l/pdkqr)  
 
 - [ ] port blender pip addon and plugget pip install action to it's own module
 
