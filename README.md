@@ -32,6 +32,7 @@ Plugins:
 
 # 3D
 
+<!--- Blender --->
 ### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;"> Blender  
 
 **UI**  
@@ -56,6 +57,7 @@ Plugins:
 
 
 ---
+<!--- Autodesk 3ds Max --->
 ### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-3dsmax.png" width="32" style="max-width: 100%;">  Autodesk 3ds Max
 
 [![](https://img.shields.io/github/stars/hannesdelbeke/dark-listener-3ds-max-plugin?color=grey&label=%E2%AD%90&style=flat-square) dark-listener-3ds-max-plugin](https://github.com/hannesdelbeke/dark-listener-3ds-max-plugin): enable dark mode in the 3ds max listener  
@@ -67,11 +69,18 @@ maxscripts:
 
 
 ---
+<!--- Autodesk Maya --->
 ### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-maya.png" width="32" style="max-width: 100%;">  Autodesk Maya
 
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-module-template?color=grey&label=%E2%AD%90&style=flat-square) maya-module-template](https://github.com/hannesdelbeke/maya-module-template): a template for Python plugins & modules   
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-template](https://github.com/hannesdelbeke/maya-plugin-template): a template for Maya Python plugins    
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-pip-qt?color=grey&label=%E2%AD%90&style=flat-square) maya-pip-qt](https://github.com/hannesdelbeke/maya-pip-qt): a Maya plugin for Python Package management inside Maya.
+
+---
+<!--- Substance Painter --->
+### <img src="https://raw.githubusercontent.com/hannesdelbeke/gamedev-emojis/main/tools/emoji-substance.png" width="32" style="max-width: 100%;">  Substance Painter
+
+[![](https://img.shields.io/github/stars/hannesdelbeke/substance-painter-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) substance-painter-plugin-template](https://github.com/hannesdelbeke/substance-painter-plugin-template): a template for Substance Painter Python plugins   
 
 
 ---
