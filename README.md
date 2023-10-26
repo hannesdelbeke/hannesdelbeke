@@ -2,33 +2,6 @@
 Below is a summary of all my projects :
 Most are fully developed by me, some I revived, packaged, or contributed too.
 
-# Frameworks
-
-###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
-Plugget is a plugin package manager to search & install tools with 1 click in Blender, Maya, Max, Unreal, ...     
-
-![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
-![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
-[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
-[![](https://img.shields.io/github/stars/plugget/plugget-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal-plugin](https://github.com/plugget/plugget-unreal-plugin) Unreal plugin for plugget  
-[![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
-
-
----
-### <img src="https://avatars.githubusercontent.com/u/8535536?s=48&v=4" width="32" style="max-width: 100%;">  Pyblish
-![](https://img.shields.io/github/stars/pyblish/pyblish-base?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish)](https://pypi.org/project/pyblish/) [pyblish-base](https://github.com/pyblish/pyblish-base) Pyblish is a validation pipeline (e.g. for 3d assets). (Contributed PRs for about a year)  
-![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-simple?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-simple)](https://pypi.org/project/pyblish-simple/) [pyblish-simple](https://github.com/hannesdelbeke/pyblish-simple): create a basic pyblish gui  
-![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-config?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-config)](https://pypi.org/project/pyblish-config/)  [pyblish-config](https://github.com/hannesdelbeke/pyblish-config): create a config for your Pyblish pipeline  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager  
-
-Plugins:  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-maya-quality-assurance?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-maya-quality-assurance](https://github.com/hannesdelbeke/pyblish-plugins-maya-quality-assurance): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  original [repo](https://github.com/robertjoosten/maya-quality-assurance)  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-blender-lint?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-blender-lint](https://github.com/hannesdelbeke/pyblish-plugins-blender-lint): 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-modelChecker?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-modelChecker](https://github.com/hannesdelbeke/pyblish-plugins-modelChecker): (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
-[![](https://img.shields.io/github/stars/fkaijun/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/fkaijun/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
-[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-repo-collection?color=grey&label=%E2%AD%90&style=flat-square) pyblish repo collection](https://github.com/hannesdelbeke/pyblish-repo-collection): collection of links to usefulll pyblish resources  
-
-
 
 # 3D
 
@@ -83,7 +56,33 @@ maxscripts:
 [![](https://img.shields.io/github/stars/hannesdelbeke/substance-painter-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) substance-painter-plugin-template](https://github.com/hannesdelbeke/substance-painter-plugin-template): a template for Substance Painter Python plugins   
 
 
+# Frameworks
+
+###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
+Plugget is a plugin package manager to search & install tools with 1 click in Blender, Maya, Max, Unreal, ...     
+
+![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
+![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
+[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
+[![](https://img.shields.io/github/stars/plugget/plugget-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) plugget-unreal-plugin](https://github.com/plugget/plugget-unreal-plugin) Unreal plugin for plugget  
+[![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages  
+
+
 ---
+### <img src="https://avatars.githubusercontent.com/u/8535536?s=48&v=4" width="32" style="max-width: 100%;">  Pyblish
+![](https://img.shields.io/github/stars/pyblish/pyblish-base?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish)](https://pypi.org/project/pyblish/) [pyblish-base](https://github.com/pyblish/pyblish-base) Pyblish is a validation pipeline (e.g. for 3d assets). (Contributed PRs for about a year)  
+![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-simple?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-simple)](https://pypi.org/project/pyblish-simple/) [pyblish-simple](https://github.com/hannesdelbeke/pyblish-simple): create a basic pyblish gui  
+![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-config?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/pyblish-config)](https://pypi.org/project/pyblish-config/)  [pyblish-config](https://github.com/hannesdelbeke/pyblish-config): create a config for your Pyblish pipeline  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-manager?color=grey&label=%E2%AD%90&style=flat-square) pyblish-manager](https://github.com/hannesdelbeke/pyblish-manager): visual pyblish manager  
+
+Plugins:  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-maya-quality-assurance?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-maya-quality-assurance](https://github.com/hannesdelbeke/pyblish-plugins-maya-quality-assurance): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  original [repo](https://github.com/robertjoosten/maya-quality-assurance)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-blender-lint?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-blender-lint](https://github.com/hannesdelbeke/pyblish-plugins-blender-lint): 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-modelChecker?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-modelChecker](https://github.com/hannesdelbeke/pyblish-plugins-modelChecker): (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
+[![](https://img.shields.io/github/stars/fkaijun/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/fkaijun/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-repo-collection?color=grey&label=%E2%AD%90&style=flat-square) pyblish repo collection](https://github.com/hannesdelbeke/pyblish-repo-collection): collection of links to usefulll pyblish resources  
+
+
 
 # Game engines
 
