@@ -15,7 +15,8 @@ Most are fully developed by me, some I revived, packaged, or contributed too.
 **Packaging & distribution**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pip-qt-addon?color=grey&label=%E2%AD%90&style=flat-square) pip-qt-addon](https://github.com/hannesdelbeke/pip-qt-addon) An add-on to add a pip-qt launcher to the menu.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender_pip?color=grey&label=%E2%AD%90&style=flat-square) blender pip addon](https://github.com/hannesdelbeke/blender_pip): UI to install & list PyPI packages in Blender  
-[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI  
+~[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI~  
+[![](https://img.shields.io/github/stars/plugget/plugget-qt-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-qt-addon](https://github.com/plugget/plugget-qt-addon) Blender add-on for plugget Qt  
 [![](https://img.shields.io/github/stars/hannesdelbeke/qt-addon-browser?color=grey&label=%E2%AD%90&style=flat-square) qt-addon-browser](https://github.com/hannesdelbeke/qt-addon-browser) A browser widget for Blender add-ons  
 
 **Modelling**  
