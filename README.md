@@ -65,7 +65,7 @@ Plugget is a plugin package manager to search & install tools with 1 click in Bl
 ![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages    
 
-**UI plugins**
+**UI plugins**  
 ![](https://img.shields.io/github/stars/plugget/plugget-qt?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/plugget-qt)](https://pypi.org/project/plugget-qt/) [plugget qt](https://github.com/plugget/plugget-qt) qt plugget manager widget  
 ~[![](https://img.shields.io/github/stars/plugget/plugget-blender-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-blender-addon](https://github.com/plugget/plugget-blender-addon) Blender add-on for plugget with a simple UI~  
 [![](https://img.shields.io/github/stars/plugget/plugget-qt-addon?color=grey&label=%E2%AD%90&style=flat-square) plugget-qt-addon](https://github.com/plugget/plugget-qt-addon) Blender add-on for plugget Qt  
