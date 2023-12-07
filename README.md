@@ -46,7 +46,9 @@ maxscripts:
 
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-module-template?color=grey&label=%E2%AD%90&style=flat-square) maya-module-template](https://github.com/hannesdelbeke/maya-module-template): a template for Python plugins & modules   
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-template](https://github.com/hannesdelbeke/maya-plugin-template): a template for Maya Python plugins    
-[![](https://img.shields.io/github/stars/hannesdelbeke/maya-pip-qt?color=grey&label=%E2%AD%90&style=flat-square) maya-pip-qt](https://github.com/hannesdelbeke/maya-pip-qt): a Maya plugin for Python Package management inside Maya.
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-pip-qt?color=grey&label=%E2%AD%90&style=flat-square) maya-pip-qt](https://github.com/hannesdelbeke/maya-pip-qt): a Maya plugin for Python Package management inside Maya.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-duplicate-obj-along-curve?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-duplicate-obj-along-curve](https://github.com/hannesdelbeke/maya-plugin-duplicate-obj-along-curve): a maya-plugin to duplicate obj along a curve.  
+
 
 ---
 <!--- Substance Painter --->
