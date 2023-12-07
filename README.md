@@ -60,9 +60,8 @@ maxscripts:
 # Frameworks
 
 ###  <img src="https://user-images.githubusercontent.com/3758308/231004489-25ce30d9-c534-4d10-8773-8e6f80f36dd2.png" width="32" style="max-width: 100%;">  Plugget
-Plugget is a plugin package manager to search & install tools with 1 click in Blender, Maya, Max, Unreal, ...     
 
-![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a package manager for plugins  
+![](https://img.shields.io/github/stars/plugget/plugget?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI Downloads](https://img.shields.io/pypi/v/plugget)](https://pypi.org/project/plugget/) [plugget](https://github.com/plugget/plugget) a plugin package manager to search & install tools with 1 click in Blender, Maya, Max, Unreal, ...
 [![](https://img.shields.io/github/stars/plugget/plugget-pkgs?color=grey&label=%E2%AD%90&style=flat-square) plugget manifest repo](https://github.com/plugget/plugget-pkgs) repo hosting all manifests for the plugget packages    
 
 **UI plugins**  
