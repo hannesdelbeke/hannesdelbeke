@@ -48,7 +48,7 @@ maxscripts:
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-template](https://github.com/hannesdelbeke/maya-plugin-template): a template for Maya Python plugins    
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-pip-qt?color=grey&label=%E2%AD%90&style=flat-square) maya-pip-qt](https://github.com/hannesdelbeke/maya-pip-qt): a Maya plugin for Python Package management inside Maya.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-duplicate-obj-along-curve?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-duplicate-obj-along-curve](https://github.com/hannesdelbeke/maya-plugin-duplicate-obj-along-curve): a maya-plugin to duplicate obj along a curve.  
-
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-snap-to-closest-uv?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-snap-to-closest-uv](https://github.com/hannesdelbeke/maya-plugin-snap-to-closest-uv): a maya-plugin to snap UVs verts to the nearest verts of another UV.  
 
 ---
 <!--- Substance Painter --->
