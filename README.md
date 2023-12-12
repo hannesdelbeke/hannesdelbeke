@@ -142,8 +142,6 @@ Plugins
 App launcher on [GumRoad](https://hannesdelbeke.gumroad.com/l/pdkqr)  
 ![](https://img.shields.io/github/stars/hannesdelbeke/qt-module-manager?color=grey&label=%E2%AD%90&style=flat-square) [![PyPI](https://img.shields.io/pypi/v/qt-module-manager)](https://pypi.org/project/qt-module-manager/) [qt-module-manager](https://github.com/hannesdelbeke/qt-module-manager) inspect all imported modules, and reload them.     
 
-- [ ] port blender pip addon and plugget pip install action to it's own module
-
 ---
 
 ### 🧪 RnD 
