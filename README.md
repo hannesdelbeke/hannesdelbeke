@@ -145,7 +145,8 @@ App launcher on [GumRoad](https://hannesdelbeke.gumroad.com/l/pdkqr)
 
 ### 🧪 RnD 
 [![](https://img.shields.io/github/stars/hannesdelbeke/Valheim-AI-assistant?color=grey&label=%E2%AD%90&style=flat-square) Valheim-AI-assistant](https://github.com/hannesdelbeke/Valheim-AI-assistant): ask Bard questions about your valheim save file  
-- [ ] TODO package [qtlog](https://github.com/MaxRocamora/QtLog)  
+- [ ] TODO package [qtlog](https://github.com/MaxRocamora/QtLog)
+- [ ] https://github.com/hannesdelbeke/timeslice-3d create a 3d file from a 2D video, using time as the third dimension.
 
 
 # 🕹️ Games
