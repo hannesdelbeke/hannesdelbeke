@@ -105,6 +105,7 @@ Plugins
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-plugin-python-script-editor?color=grey&label=%E2%AD%90&style=flat-square) unreal-plugin-python-script-editor](https://github.com/hannesdelbeke/unreal-plugin-python-script-editor): a Python script-editor Unreal plugin  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unreal-python-plugin-template?color=grey&label=%E2%AD%90&style=flat-square) unreal-python-plugin-template](https://github.com/hannesdelbeke/unreal-python-plugin-template) a unreal-python-plugin-template  
 [![](https://img.shields.io/github/stars/hannesdelbeke/texture-browser-unreal-plugin?color=grey&label=%E2%AD%90&style=flat-square) texture-browser-unreal-plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) great for browsing icons in the unreal install dir  
+- https://github.com/hannesdelbeke/unreal-qt-plugin
 
 ---
 ### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Unity-Dark.svg" width="32" style="max-width: 100%;">  Unity
