@@ -49,7 +49,8 @@ maxscripts:
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-duplicate-obj-along-curve?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-duplicate-obj-along-curve](https://github.com/hannesdelbeke/maya-plugin-duplicate-obj-along-curve): a maya-plugin to duplicate obj along a curve.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-snap-to-closest-uv?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-snap-to-closest-uv](https://github.com/hannesdelbeke/maya-plugin-snap-to-closest-uv): a maya-plugin to snap UVs verts to the nearest verts of another UV.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya_script_editor_highlighter?color=grey&label=%E2%AD%90&style=flat-square)maya_script_editor_highlighter](https://github.com/hannesdelbeke/maya_script_editor_highlighter): color errors and warnings in the Maya console.  
-
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-module-manager?color=grey&label=%E2%AD%90&style=flat-square)maya-module-manager](https://github.com/hannesdelbeke/maya-module-manager): Maya module manager plugin.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/maya-created-controls?color=grey&label=%E2%AD%90&style=flat-square)maya-created-controls](https://github.com/hannesdelbeke/maya-created-controls): maya module to created rig controls.  
 
 ---
 <!--- Substance Painter --->
