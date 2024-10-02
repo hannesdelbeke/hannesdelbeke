@@ -53,6 +53,7 @@ maxscripts:
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-created-controls?color=grey&label=%E2%AD%90&style=flat-square)maya-created-controls](https://github.com/hannesdelbeke/maya-created-controls): maya module to created rig controls.  
 https://github.com/hannesdelbeke/unload_maya_shelf unload a shelf instead of delete it.  
 https://github.com/hannesdelbeke/maya-viewport-2.0-optimizer  
+https://github.com/hannesdelbeke/maya-simple-export  
 
 ---
 <!--- Substance Painter --->
