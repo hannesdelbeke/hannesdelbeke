@@ -1,4 +1,4 @@
-### Hi 👋 I develop game pipeline tools in Python 🐍
+### Hi 👋 I develop game pipeline tools, mostly in Python 🐍
 Below is a summary of my projects. (refresh the page if not all stars are showing)
 
 
