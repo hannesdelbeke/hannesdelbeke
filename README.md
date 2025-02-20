@@ -19,7 +19,6 @@ Below is a summary of my projects. (refresh the page if not all stars are showin
 **Modelling**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/collision-creator-addon?color=grey&label=%E2%AD%90&style=flat-square) collision-creator-addon](https://github.com/hannesdelbeke/collision-creator-addon): convex UCX colliders with 1 click in Blender  
 [![](https://img.shields.io/github/stars/hannesdelbeke/blender-transfer-vertex-order-addon?color=grey&label=%E2%AD%90&style=flat-square) blender-transfer-vertex-order-addon](https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon) (packaged)  
-[![](https://img.shields.io/github/stars/hannesdelbeke/blender-search-replace?color=grey&label=%E2%AD%90&style=flat-square) blender-search-replace](https://github.com/hannesdelbeke/blender-search-replace) (Fork fix) a Blender add-on to search & replace textures  
 
 **Scripting**  
 [![](https://img.shields.io/github/stars/hannesdelbeke/pyqtconsole_addon?color=grey&label=%E2%AD%90&style=flat-square) pyqtconsole_addon](https://github.com/hannesdelbeke/pyqtconsole_addon): (packaged) pyqtconsole blender add-on  
