@@ -49,7 +49,6 @@ https://github.com/hannesdelbeke/unload_maya_shelf unload a shelf instead of del
 https://github.com/hannesdelbeke/maya-viewport-2.0-optimizer   
 
 **Collabs** - tools made by others, often I just repackage them in a plugin    
-https://github.com/hannesdelbeke/maya-simple-export  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-created-controls?color=grey&label=%E2%AD%90&style=flat-square)maya-created-controls](https://github.com/hannesdelbeke/maya-created-controls): maya module to created rig controls.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-module-manager?color=grey&label=%E2%AD%90&style=flat-square)maya-module-manager](https://github.com/hannesdelbeke/maya-module-manager): Maya module manager plugin.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/maya-plugin-duplicate-obj-along-curve?color=grey&label=%E2%AD%90&style=flat-square) maya-plugin-duplicate-obj-along-curve](https://github.com/hannesdelbeke/maya-plugin-duplicate-obj-along-curve): a maya-plugin to duplicate obj along a curve.  
