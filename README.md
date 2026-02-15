@@ -118,6 +118,8 @@ Plugins
 [![](https://img.shields.io/github/stars/hannesdelbeke/unity-folder-notes?color=grey&label=%E2%AD%90&style=flat-square) unity-folder-notes](https://github.com/hannesdelbeke/unity-folder-notes) save notes in your Unity folders meta data  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unity-note-editor?color=grey&label=%E2%AD%90&style=flat-square) unity-note-editor](https://github.com/hannesdelbeke/unity-note-editor) Write notes on Unity assets.  
 [![](https://img.shields.io/github/stars/hannesdelbeke/unity-deeplink?color=grey&label=%E2%AD%90&style=flat-square) unity-deeplink](https://github.com/hannesdelbeke/unity-deeplink) Enable external apps to link to Unity assets.  
+[![](https://img.shields.io/github/stars/hannesdelbeke/electron-unity-hub?color=grey&label=%E2%AD%90&style=flat-square) electron-unity-hub](https://github.com/hannesdelbeke/electron-unity-hub) A Unity Hub that integrates with Git.  
+
 
 <sub>⭐328</sub> 16th-century-cannon 3d model: [unity store](https://assetstore.unity.com/packages/3d/props/weapons/16th-century-cannon-70417), [sketchfab](https://sketchfab.com/3d-models/cannon-0e72e8d5951b45faaaccc721d92e5076)   
 
